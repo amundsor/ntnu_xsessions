@@ -8,7 +8,7 @@ _B.F.Skinner_
 * Hva ser du for deg videre?
 
 ```java
-public class Presentation {
+public class XSessionsPresentation {
     public static void main(String[] args) {
         System.out.println("Hello, NTNU Gjøvik!");
         start();
