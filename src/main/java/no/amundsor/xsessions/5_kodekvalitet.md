@@ -1,7 +1,8 @@
-# Kodekvalitet
+# 5. Kodekvalitet
 ### SOLID-prinsipper, Clean Code, etc, etc.
 * Er som regel en forventning (på generelt grunnlag)
 * Ha et bevisst forhold til kodekvalitet
+* Tilstreb "selvforklarende" kode
 
 ### Yrkesstolthet
 
