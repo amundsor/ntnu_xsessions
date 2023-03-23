@@ -15,5 +15,6 @@ class ExStudent {
 * Begynte på Høgskolen i Gjøvik i 2009 (Bachelor Ingeniørfag - Data)
 * Fortsatte med Mastergrad i 2012
 * Jobbet med Teknisk Support hos Aditro (nå SD Worx) fra 2016
+* Startet på Årsstudium i GIS høsten 2017
 * Begynte hos Kartverket i 2018
 * Skal begynne som konsulent hos Webstep i april, med første oppdrag hos NAV fra 11.april.
