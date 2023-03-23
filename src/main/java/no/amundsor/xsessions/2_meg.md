@@ -12,7 +12,8 @@ class ExStudent {
 }
 ```
 * Tidligere fotballspiller for Raufoss, Gjøvik-Lyn, Ull/Kisa, Follo
-* Startet på Høgskolen i Gjøvik i 2009
-* Jobbet med Teknisk Support i Aditro (SD Worx) fra 2016
-* Startet i Kartverket fra 2018
-* Starter som konsulent i Webstep, med første oppdrag hos NAV fra 11.april.
+* Begynte på Høgskolen i Gjøvik i 2009 (Bachelor Ingeniørfag - Data)
+* Fortsatte med Mastergrad i 2012
+* Jobbet med Teknisk Support hos Aditro (nå SD Worx) fra 2016
+* Begynte hos Kartverket i 2018
+* Skal begynne som konsulent hos Webstep i april, med første oppdrag hos NAV fra 11.april.
