@@ -6,7 +6,7 @@
 
 ### Yrkesstolthet
 
-"_stolthet som man føler som utøver av et bestemt fag, yrke, 
+"_Stolthet som man føler som utøver av et bestemt fag, yrke, 
 især knyttet til god og korrekt utøvelse_"
 
 * Skriver du en stil, leverer du aldri (sjelden) førsteutkastet
