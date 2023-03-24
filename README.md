@@ -3,7 +3,8 @@
 Inneholder en presentasjon som jeg holdt for studenter på NTNU Gjøvik 23.03.23. 
 X-Sessions er et arrangement hvor ex-studenter inviteres til å holde et (forhåpentligvis) inspirerende
 foredrag for interesserte studenter. Målgruppen er datastudenter på 1. til 3. trinn, men arrangementet
-er åpent for alle.
+er åpent for alle. Presentasjonen er forsøkt holdt på stikkordsnivå. Hvis du skulle ønske diskutere noen av punktene
+er det bare å ta kontakt (f.eks. via Github).
 
 Denne presentasjonen inneholder:
 - [Innledning](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/1_innledning.md)
