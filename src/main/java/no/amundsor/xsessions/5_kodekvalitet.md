@@ -1,3 +1,4 @@
+[<- Tilbake til innholdsfortegnelsen](https://github.com/amundsor/ntnu_xsessions/blob/master/README.md)
 # 5. Kodekvalitet
 ### SOLID-prinsipper, Clean Code, etc, etc.
 * Er som regel en forventning (på generelt grunnlag)
@@ -27,3 +28,5 @@ class RelevantRegisteredCars {
     private String countryOfManufacturing;
 }
 ````
+
+- [Neste -> Jobbsøknad](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/6_jobb.md)

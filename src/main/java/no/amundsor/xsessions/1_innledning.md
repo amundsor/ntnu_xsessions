@@ -1,3 +1,4 @@
+[<- Tilbake til innholdsfortegnelsen](https://github.com/amundsor/ntnu_xsessions/blob/master/README.md)
 # 1. Starten på ditt eventyr
 
 ### `"The real problem is not whether machines think but whether men do."`
@@ -15,3 +16,5 @@ public class XSessionsPresentation {
     }
 }
 ```
+
+[Neste -> Om Meg](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/2_meg.md)

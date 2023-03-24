@@ -1,3 +1,4 @@
+[<- Tilbake til innholdsfortegnelsen](https://github.com/amundsor/ntnu_xsessions/blob/master/README.md)
 # 3. Hvordan jobber vi i Kartverket?
 
 ## Tverrfaglige Produktområdeteam
@@ -18,3 +19,5 @@ Produktet `Nasjonal Inndelingsbase` har hovedfokus pga. _Kommunestyre- og fylkes
 * Continuous Integration/Continuous Delivery (CI/CD) med Github Workflows
 * Deployes med Terraform (IaC - Infrastructure as Code)
 * Deployes til Kubernetes-cluster som kjører på Google Cloud Platform
+
+- [Neste -> Noen anbefalinger rundt det å være student](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/4_student.md)

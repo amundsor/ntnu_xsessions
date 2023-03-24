@@ -1,3 +1,4 @@
+[<- Tilbake til innholdsfortegnelsen](https://github.com/amundsor/ntnu_xsessions/blob/master/README.md)
 # 7. Karriere
 
 ### Veien blir til mens du går
@@ -28,3 +29,5 @@ Noen buzzwords jeg ser igjen i oppdrags-utlysninger og stillingsannonser:
 * Hobbyprosjekter hvor du tester ut nye teknologier?
 * Kanskje et annet språk for et litt annet perspektiv?
 * Lage en discord-bot, lese et ekstern api, kode mikrocontrollere, osv., osv.
+
+[<- Tilbake til innholdsfortegnelsen](https://github.com/amundsor/ntnu_xsessions/blob/master/README.md)
