@@ -17,4 +17,4 @@
 * Tør å spørre når du er usikker! Selvom du føler deg "dum"
 * Fylle små hull er viktig for bredere forståelse
 
-- [Neste -> Kodekvalitet](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/5_kodekvalitet.md)
+[Neste -> Kodekvalitet](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/5_kodekvalitet.md)

@@ -29,4 +29,4 @@ class RelevantRegisteredCars {
 }
 ````
 
-- [Neste -> Jobbsøknad](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/6_jobb.md)
+[Neste -> Jobbsøknad](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/6_jobb.md)

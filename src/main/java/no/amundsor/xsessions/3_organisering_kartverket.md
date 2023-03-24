@@ -20,4 +20,4 @@ Produktet `Nasjonal Inndelingsbase` har hovedfokus pga. _Kommunestyre- og fylkes
 * Deployes med Terraform (IaC - Infrastructure as Code)
 * Deployes til Kubernetes-cluster som kjører på Google Cloud Platform
 
-- [Neste -> Noen anbefalinger rundt det å være student](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/4_student.md)
+[Neste -> Noen anbefalinger rundt det å være student](https://github.com/amundsor/ntnu_xsessions/blob/master/src/main/java/no/amundsor/xsessions/4_student.md)
